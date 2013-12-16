@@ -226,7 +226,7 @@ main (int argc, char **argv)
 	int differencingLen = 0;
 
 	extern char *optarg;
-	extern int optind, optopt;
+	extern int optind;
 
 //
 // *** Parse the command line options ***
